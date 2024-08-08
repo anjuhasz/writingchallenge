@@ -1,5 +1,4 @@
-# writingchallenge
-Materials for Writing Challenge workshop
+# Materials for Writing Challenge workshop
 
 Challenge your writing and cooperation skills in an exceptional workshop.
 Measure your level of professionalism in an escape room-like exercise in which you work in small groups to solve puzzling writing tasks.
