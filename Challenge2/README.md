@@ -1,4 +1,4 @@
-# Challenge 2
+# Challenge 2 - Entering the Moon coordinates
 
 Decipher the string in the DOCX file in this folder to obtain the Moon coordinates of the Artemis Base Camp.
 
