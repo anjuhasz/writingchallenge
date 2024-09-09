@@ -4,7 +4,7 @@ You carry out the powering-up sequence as instructed, but the process aborts at 
 
 > wtrpplkgchckcnnctnsndsls
 
-In a side compartment, you manage to find a laminated flyer with some basic troubleshooting instructions, but the card is damages and the text became hardly readable. 
+In a side compartment, you find a laminated flyer with some basic troubleshooting instructions, but the card is damaged, and the text is hardly readable. 
 
 Find out the missing words and complete the troubleshooting instructions. 
 Then, find the problem and give the number of steps you need to resolve it.
