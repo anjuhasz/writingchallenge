@@ -12,6 +12,7 @@ Your thread of life now depends on your skills of how you can decipher and recon
 
 The challenge comprises the following types of tasks :
 
+* Break up continuous strings of text into meaningful chunks
 * Re-assemble/re-order the scattered parts.
 * Guess and write the missing parts (parts of words, full words, etc.).
 * Put the instructions in the right order.
